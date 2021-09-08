@@ -1,0 +1,18 @@
+.nope{
+    color:red;
+}
+.cont
+{
+    /*text-align: center; */
+    margin-top:2em;
+    position: relative;
+    right: auto;
+}
+.card-body
+{
+    position: inherit;
+}
+.yourNotes
+{
+    margin-top: 1.5rem;
+}
